@@ -1,0 +1,1 @@
+select distinct first_name, age from customer_table;
